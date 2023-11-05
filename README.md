@@ -4,7 +4,7 @@
 
 # HOW TO RUN 
 
-<jar-file> -enc <String-to-Encrypt> -pub <Public-Key-file-path> 
+# <jar-file> -enc <String-to-Encrypt> -pub <Public-Key-file-path> 
 
-<jar-file> -dec <String-to-decrypt> -priv <Private-Key-file-path> 
+# <jar-file> -dec <String-to-decrypt> -priv <Private-Key-file-path> 
 
